@@ -17,28 +17,28 @@ Para iniciar el desarrollo haga un **Fork de este _repositorio_**  el paso sigui
 
 #### Como clonar un repositorio
 para clonar el repositorio  abra su Termina, Símbolo del sistema, CMD, en la ubicacion donde desea clonar el repositorio y escríba el siguiente _comando_.
- 
- ´´´ 
+
+ ```
  git clone  https://github.com/studioartbliss/EjerciciosDeJavascript.git 
- ´´´
- 
+ ```
+
 #### Crear una nueva rama(Branch)
 Ahora con el repositorio alojado en su computadora vamos a crear una rama(branch) para que usted desarrolle su propia versión de este proyecto y al tiempo contribuir con el.
 
 Para esto usaremos un comando git el cual creara la nueva rama(branch) y nos ubicara en ella
 
-´´´
+```
 git  checkout -b nombreDeLaRama
-´´´
+```
 
 _para volver a la rama(branch) master_
 
-´´´
+```
 git checkout master
-´´´
+```
 
 #### Creación de su carpeta de trabajo
-Cuando se encuentre  ubicado en su branch puede empezar creando una carpeta donde va alojar sus ejercicios de javascript.Llámela como  a usted mejor le parezca 
+Cuando se encuentre  ubicado en su branch puede empezar creando una carpeta donde va alojar sus ejercicios de javascript.Llámela como  a usted mejor le parezca.
 
 
 # Ejercios de javascript
@@ -47,9 +47,9 @@ Cuando se encuentre  ubicado en su branch puede empezar creando una carpeta dond
 
 ## ejercicio N° 1
 
-> Crear una variable que reciba un string y retorne la misma, pero agregando después de cada carácter su índice correspondiente. Es decir, que retorne el mismo string transformado de la siguiente forma.
+Crear una variable que reciba un string y retorne la misma, pero agregando después de cada carácter su índice correspondiente. Es decir, que retorne el mismo string transformado de la siguiente forma.
 
-´´´
+```
 
     En el indice 0 posición 1 es igual a la letra C
     En el indice 1 posición 2 es igual a la letra a
@@ -57,5 +57,5 @@ Cuando se encuentre  ubicado en su branch puede empezar creando una carpeta dond
     En el indice 3 posición 4 es igual a la letra l
     En el indice 4 posición 5 es igual a la letra o
     En el indice 5 posición 6 es igual a la letra s
-    
-´´´
+
+```
