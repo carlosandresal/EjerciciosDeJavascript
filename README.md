@@ -41,11 +41,11 @@ git checkout master
 Cuando se encuentre  ubicado en su branch puede empezar creando una carpeta donde va alojar sus ejercicios de javascript.Llámela como  a usted mejor le parezca.
 
 
-# Ejercios de javascript
+## Ejercios de javascript
 
 
 
-## ejercicio N° 1
+## Ejercicio N° 1
 
 Crear una variable que reciba un string y retorne la misma, pero agregando después de cada carácter su índice correspondiente. Es decir, que retorne el mismo string transformado de la siguiente forma.
 
